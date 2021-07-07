@@ -3,7 +3,7 @@ let toDo = function Todo (){
     let todoArr = []
    
     this.create = function(){
-        let htmlTodo = `<h1 class="title">To Do Lists</h1>
+        let htmlTodo = `<h1 class="title">To Do List</h1>
                         <div class= "todo_option" >
                             <input type="text" id="todo__input">
                         </div>
